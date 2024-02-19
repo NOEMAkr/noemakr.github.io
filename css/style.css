@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body{background-color:#ededed;margin:0;color:#404040;font-family:'RIDIBatang','Noto Serif KR','Helvetica Neue','Apple SD Gothic Neo',sans-serif;}
+header{margin-top:30px;margin-bottom:30px;}
+a {color:#404040;text-decoration:none;} a:hover {background-color:#ED1C24;color:white;}
+
+.noema {text-align:center;font-size:xxx-large;} 
+nav {text-align:center;font-size:1.2rem;}
+nav a {display:inline-block;}
+
+#list {max-width:670px;font-size:1.2rem;line-height:2.0rem;margin:25px auto;padding-left:3%;padding-right:3%;height:auto;list-style:none;} 
+#list a {list-style:none;display:inline-block;}
+#hr_main {background:#cccccc;height:1px;border:0;max-width:700px; margin:auto;}
+
+p {line-height: 1.8rem;}
+hr {background:#cccccc;height:1px;border:0;max-width:70%; margin-top:2.7rem;margin-bottom:2.7rem;} 
+article {max-width:670px;font-size:18px;text-align:left;margin:auto;height:auto;padding-left:3%;padding-right:3%;}
+article a {color:#327FE5;}
+h3, h4 {margin-top:2.7rem;}
+em {font-family:'맑은 고딕','malgun gothic','AppleGothicNeoSD','Apple SD 산돌고딕 Neo','Microsoft NeoGothic','Droid sans',sans-serif, 'NanumGothic', 'serif';font-style:normal;font-weight:normal;}
+sup {vertical-align:top;position:relative;top:-0.5em;}
+ul {font-size:18px;margin:auto;padding-left:6%;padding-right:2%;line-height:1.8rem;}
+
+footer {max-width:670px;height:auto;text-align:center;font-size:1rem;margin:2rem auto;} 
+footer a {text-align:center;padding:5px;text-decoration:none;}

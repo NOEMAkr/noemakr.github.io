@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>book</title>
+<link> /</link>
+<description>Grow with Technology</description>
+
+<item>
+<title>Content2</title>
+<link> /book/Content2/</link>
+<description>
+<![CDATA[
+<p>
+INFO&nbsp;<a href=" /book/Content2/">...</a>
+</p>
+<p><a href=" /book/Content2/">Read More</a></p>
+]]>
+</description>
+<pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Content1</title>
+<link> /book/Content1/</link>
+<description>
+<![CDATA[
+<p>
+INFO&nbsp;<a href=" /book/Content1/">...</a>
+</p>
+<p><a href=" /book/Content1/">Read More</a></p>
+]]>
+</description>
+<pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+</item>
+
+
+</channel>
+</rss>
